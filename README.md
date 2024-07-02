@@ -7,7 +7,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEP000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
--->
 
 🌱 I’m currently learning ML, DL  
 🔥 I'm interested in NLP, Image processing
@@ -21,7 +20,6 @@
 <img src='https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white'></a>
 <img src='https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white'></a>
  
-<!--
 **EP000/EP000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
